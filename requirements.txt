@@ -6,7 +6,7 @@ font-roboto
 gfpgan
 gradio==3.23
 invisible-watermark
-numpy>=1.20.3,<1.23.0
+numpy >= 1.20.3, < 1.23.0
 omegaconf
 opencv-contrib-python
 requests
